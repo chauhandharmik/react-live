@@ -1,0 +1,98 @@
+
+
+.menu_active{
+  font-weight: bold; 
+  border-bottom: 2px solid black;
+  transition-delay: 3s;
+}
+
+.logo{
+  font-size: 35px;
+  font-weight: 450;
+  color:cadetblue;
+}
+
+#header{
+  height: 80vh;
+  margin-top: 50px;
+  width: 100%;
+}
+
+#header h2{
+  color: #484848;
+  font-size: 24px;
+}
+
+#header h1{
+  margin: 0 0 10px 0;
+  font-size: 48px;
+  font-weight: 700;
+  color: black;
+}
+#header .brand-name{
+  color: #3498db;
+}
+
+
+
+.blue-btn a{
+  color: black;
+  text-decoration:none;
+  text-align: center;
+}
+
+.blue-btn, .first-link{
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;     
+}
+
+@keyframes example {
+  0%   {  top:0px;}
+  50%  { top:10px;}
+  100% {  top:0px;}
+}
+
+.header-img{
+  
+  height: 100px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+
+.blue-btn{
+  text-decoration: none;
+  text-align: center;
+  height: 62px;
+  font: normal normal 700 1em/4em Arial,sans-serif;
+  overflow: hidden;
+  width: 200px;
+  margin-top: 60px;
+  border: 2px solid rgb(55, 193, 196) ;
+  border-radius: 30px;
+}
+
+.blue-btn:hover{
+   background-color: rgb(55, 193, 196);
+  
+}
+
+.blue-btn a:hover{
+  text-decoration: none;
+}
+
+.first-link{
+  margin-top: 0em; 
+  text-decoration: none;  
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
