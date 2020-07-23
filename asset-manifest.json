@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-live/static/css/main.11ab2ba5.chunk.css",
+    "main.js": "/react-live/static/js/main.7020a699.chunk.js",
+    "main.js.map": "/react-live/static/js/main.7020a699.chunk.js.map",
+    "runtime-main.js": "/react-live/static/js/runtime-main.ee193817.js",
+    "runtime-main.js.map": "/react-live/static/js/runtime-main.ee193817.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/react-live/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.2d33ed4b.chunk.js": "/react-live/static/js/2.2d33ed4b.chunk.js",
+    "static/js/2.2d33ed4b.chunk.js.map": "/react-live/static/js/2.2d33ed4b.chunk.js.map",
+    "index.html": "/react-live/index.html",
+    "precache-manifest.58d56ef569f7dfd56d92b92f00a147f9.js": "/react-live/precache-manifest.58d56ef569f7dfd56d92b92f00a147f9.js",
+    "service-worker.js": "/react-live/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/react-live/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.11ab2ba5.chunk.css.map": "/react-live/static/css/main.11ab2ba5.chunk.css.map",
+    "static/js/2.2d33ed4b.chunk.js.LICENSE.txt": "/react-live/static/js/2.2d33ed4b.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/react-live/static/media/1.eabb513f.png",
+    "static/media/2.png": "/react-live/static/media/2.ccc2b990.png",
+    "static/media/about.jpg": "/react-live/static/media/about.452a301d.jpg",
+    "static/media/digitalmarketing.jpg": "/react-live/static/media/digitalmarketing.6ddde3a9.jpg",
+    "static/media/responnsive.jpg": "/react-live/static/media/responnsive.28a93410.jpg",
+    "static/media/software.jpg": "/react-live/static/media/software.f763240e.jpg",
+    "static/media/webcoimbatore.png": "/react-live/static/media/webcoimbatore.06c36c53.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee193817.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.2d33ed4b.chunk.js",
+    "static/css/main.11ab2ba5.chunk.css",
+    "static/js/main.7020a699.chunk.js"
+  ]
+}
